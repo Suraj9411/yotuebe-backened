@@ -1,0 +1,15 @@
+{
+  "name": "youtube-complete-project",
+  "version": "1.0.0",
+  "description": "youtube complete backened",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backened",
+    "javascipt"
+  ],
+  "author": "Suraj singh rawat",
+  "license": "ISC"
+}
